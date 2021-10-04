@@ -8,6 +8,7 @@
 
 .post_top{
     display: flex;
+    flex-direction : column;
     position: relative;
     align-items: center;
     padding: 15px;
@@ -18,7 +19,7 @@
 }
 
 .post_avatar{
-    margin-left: 10px;
+    margin: 10px 10px 10px 10px;
 }
 
 .post_topInfo > h3{
